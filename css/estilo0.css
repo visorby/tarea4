@@ -1,0 +1,35 @@
+.tauri-regular {
+    font-family: "Tauri", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.ropa-sans-regular {
+    font-family: "Ropa Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .ropa-sans-regular-italic {
+    font-family: "Ropa Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+.conteiner{
+    text-align: center;
+    margin: 5px;
+}
+.row{
+    margin-top: 9px;
+}
+.col{
+    margin-top: 9px
+}
+
+    
+  
